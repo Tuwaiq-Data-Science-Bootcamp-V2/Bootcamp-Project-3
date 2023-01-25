@@ -4,7 +4,7 @@ Based on what you’ve learned until now, use NumPy, pandas, matplotlib, seaborn
 
 This project must at least satisfy the following minimum requirements:
 
-- Use one of the following datasets.
+- Use the following dataset.
   - https://www.kaggle.com/datasets/reemamuhammed/riyadh-villas-aqar
   
 - EDA
