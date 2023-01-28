@@ -4,10 +4,10 @@
 | Team members   | Role |
 | ----------- | ----------- |
 | Razan Fahad | |
-| Faris Alahmadi | create 2 plots ,EDA ,and create dashboard|
+| Faris Alahmadi | |
 | shatha | |
 | reef | |
-| sulaiman alsadan | |
+| Sulaiman AlSaadan |Creat 2 plots and EDA |
 
 
 ## Problem
@@ -17,9 +17,9 @@
 
 1- 55
 
-2-
+2- Middle of Riyadh has the least properties for sale
 
-3-
+3- The count of properties for sale in each neighbourhood doesn't effect the square price
 
 4-
 
