@@ -1,4 +1,4 @@
-#  DS Project 2 | Video Games Analysis <img src='game.png' width=36>
+#  DS Project 3 | Riyadh Location Analysis <img src='game.png' width=36>
 
 ## Objective
 The objective of our project to undestand the game industry by visualizing data to give real insights for game developers.
@@ -13,13 +13,17 @@ The objective of our project to undestand the game industry by visualizing data 
 - Pandas
 - Matplotlib
 - Seaborn
+- Plotly
+- JupyterDash
 
 ## Team members
-| Team members   | Role |
-| ----------- | ----------- |
-| Thekra Alhameedy | Clean and preprocess for dataset, EDA, Ploting 4 chart. |
-| Lolo Almuqbil | Dataset Providing, DataFrame profiling, ploting 4 charts.|
-| Ali Almuhaysin | Ploting 4 charts, Ploting styles and write README markdown file. (LEADER) |
+| Team members | Role |
+| -- | ----------- |
+| Alaa Qadri | Clean and preprocess for dataset, EDA, Plotting 3 chart and make dashboard. |
+| Mohammed  | plotting 4 charts.|
+| Moaath  | plotting 4 charts.|
+| Saeed Alshahrani  | plotting 3 charts.|
+| Ali Almuhaysin | Plotting 4 charts, Plotting styles and write README markdown file. (LEADER) |
 
 ## Dataset Overview:
 The dataset is available through the [data world.](https://data.world/sumitrock/video-games-sales)
@@ -48,7 +52,7 @@ This dataset contains Video games data. There are 16K+ observations and 16 colum
 | Developer | Company or group name that developed the game. |
 | Rating | The category of game, provides information about what's in a game or app so parents and consumers can make informed choices about which games are right for their family |
 
-## Final Eight Insights
+## Final Insights
  
 |    | Insight |
 | ----------- | ----------- |
