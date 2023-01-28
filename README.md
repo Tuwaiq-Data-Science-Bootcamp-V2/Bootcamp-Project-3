@@ -89,6 +89,6 @@ This dataset contains Riyadh Villas Aqar data. There are 7.24 MB,(46826) rows an
 | Mohammad  | Ploting 3 charts.|
 | Moaath  | Ploting 1 chart.|
 | Saeed Alshahrani | Ploting 3 charts.|
-| Ali Almuhaysin | Ploting 4 charts, Ploting styles and . (LEADER) |
+| Ali Almuhaysin | Ploting 2 charts, do final formatting for project. (LEADER) |
 
 
