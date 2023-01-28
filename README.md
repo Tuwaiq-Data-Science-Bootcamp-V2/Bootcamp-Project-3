@@ -4,7 +4,7 @@
 | Team members   | Role |
 | ----------- | ----------- |
 | Razan Fahad | |
-| Faris Alahmadi | create 2 plots and EDA|
+| Faris Alahmadi | create 2 plots ,EDA ,and create dashboard|
 | shatha | |
 | reef | |
 | sulaiman alsadan | |
