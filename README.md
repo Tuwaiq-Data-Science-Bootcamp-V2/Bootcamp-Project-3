@@ -1,33 +1,42 @@
-# Bootcamp-Project-3
 
-Based on what you’ve learned until now, use NumPy, pandas, matplotlib, seaborn and Plotly to create a project of your choosing.
+## Team members
 
-This project must at least satisfy the following minimum requirements:
+| Team members   | Role |
+| ----------- | ----------- |
+| Razan Fahad |Creat 2 plots, and EDA |
+| Faris Alahmadi |Create 2 plots ,EDA, and dashboard |
+| shatha |Create 2 plots, EDA |
+| reef |2charts (bar and pie)with dashboard |
+| Sulaiman AlSaadan |Creat 2 plots and EDA |
 
-- Use the following dataset.
-  - https://www.kaggle.com/datasets/reemamuhammed/riyadh-villas-aqar
-  
-- EDA
-    - Apply the essential EDA steps: head, shape, info, describe, and missing values.
-    - Apply the additional EDA steps based on your dataset needs.
-    
-- Data Visualization
-    - Drive meaningful insights (at least 10 different charts).
-    - Apply chart format include:
-    - Choose a specific style for your charts.
-      - Apply one color palette from your choice on all charts.
-      - Use title, x and y labels, font size, figure size, legends.
-      
-- Create an interactive dashboard using Plotly.
-      
-- Report your final conclusion and findings in one page (readme markdown file).
-    - Team members.
-    - Introduction (problem, objectives)
-    - Dataset Overview and Source.
-    - Describe the final ten insights.
-- The Final presentation will be on Sunday.
-- Due Date: Sat, 28 Jan, 11:59 pm.
 
-Final Deliverables:
-- Notebook file(.ipynb).
-- README.md file.
+## Problem
+real-estat market is one of the biggest and most fluctuating markets, so its important to analyze the properties offers and help in making decision and answer most of the most frequent questions, where to buy?, is that property over priced? ....etc.<\br>
+in our project we provide a good analysis to answer those questions and have a good knowledge about the real-estat market.
+
+## Final insight
+
+1- Bar chart show average price for every front
+
+2- Middle of Riyadh has the least properties for sale
+
+3- The count of properties for sale in each neighbourhood doesn't effect the square price
+
+4-Heat map show correlation for Riyadh Vill Aqar
+
+5-the price is efected by the space and neighbourhood
+
+6-the heihbourhood with most offers and most expensive is النرجس neighborhood
+
+7-From the Average price according to the age of the property chart it is clears that the old real estate prices are lower compared to the new real estate
+
+8-Real estate prices that include a swimming pool, elevator, and basement in northern Riyadh are much higher than other areas
+
+9-Bar chart and pie chart show Aqars prices with every location,it appears that north of Riyadh has the highest prices
+
+10-Bar chart show rooms with prices ,it appears that the villa which has 7 rooms ,has a higher price
+
+
+
+
+
