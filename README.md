@@ -1,11 +1,9 @@
-<<<<<<< HEAD
-#  DS Project 3 | Riyadh Location Analysis <img src='game.png' width=36>
-=======
-#  DS Project 2 | Riyadh Villas Aqar Analysis <img src='figures\aqar.jpg' width=36>
->>>>>>> 4a0cd0a1b7f46837cab33bd399e4ca91cf75b038
+#  DS Project 3 | Riyadh Villas Aqar Analysis <img src='https://github.com/AliAlmuhaysin/Bootcamp-Project-3/blob/main/figures/aqar.jpg' width=50>
+
+
 
 ## Objective
-The objective of our project to analyze and visualize data to give real insights for the villas in the regions of Riyadh and its neighborhoods in terms of average prices, views and services available in the villa .
+The objective of our project to analyze and visualize data to give real insights for the villas in the regions of Riyadh and its neighborhoods in terms of average prices, views and services available in the villa  .
 
 ## Tools and Libraries
 ### Tools:
@@ -18,23 +16,7 @@ The objective of our project to analyze and visualize data to give real insights
 - Matplotlib
 - Seaborn
 - Plotly
-<<<<<<< HEAD
-- JupyterDash
-
-## Team members
-| Team members | Role |
-| -- | ----------- |
-| Alaa Qadri | Clean and preprocess for dataset, EDA, Plotting 3 chart and make dashboard. |
-| Mohammed  | plotting 4 charts.|
-| Moaath  | plotting 4 charts.|
-| Saeed Alshahrani  | plotting 3 charts.|
-| Ali Almuhaysin | Plotting 4 charts, Plotting styles and write README markdown file. (LEADER) |
-=======
-- Template
-- JupyterDash
-- dash_html_components
 - Dash
-
 
 ## Team members
 | Team members   | Role |
@@ -44,47 +26,43 @@ The objective of our project to analyze and visualize data to give real insights
 | Moaath  | Ploting 1 chart.|
 | Saeed Alshahrani | Ploting 3 charts.|
 | Ali Almuhaysin | Ploting 4 charts, Ploting styles and . (LEADER) |
->>>>>>> 4a0cd0a1b7f46837cab33bd399e4ca91cf75b038
 
 ## Dataset Overview:
 The dataset is available through the [kaggle.](https://www.kaggle.com/datasets/reemamuhammed/riyadh-villas-aqar)
 
-This dataset contains Video games data. There are 16K+ observations and 16 columns, including Name, Platform, Year_of_Release, Genre, Publisher, North_America_Sales, European_Union_Sales, Japan_Sales, Other_Sales, Global_Sales and more.
+This dataset contains Riyadh Villas Aqar data. There are 7.24 MB,(46826) rows and 26 columns, including Front, Rooms, Bathrooms, PropertyAge, Price, Location and more.
 
-<img src='ratings.jpg' width=360>
 
 ## Dataset Description:
 | Column   | Description |
 | ----------- | ----------- |
-| front | Name of the game. |
-| rooms | Platform name. |
-| lounges | Game's release year|
-| bathrooms | The category that the game fall under. |
-| streetWidth | The name of game publisher. |
-| stairs | Sales of game in North America Region. |
-| propertyAge | Sales of game in European Union.|
-| driverRoom | Sales of game in Japan. |
-| tent | Sales of game in other Regions.|
-| patio | Total of Sales for the game globally (SUM of previous Sales data). |
-| kitchen | Game Score given by a critic out of 100|
-| outdoorRoom |  Number of Critics |
-| garage | Game Score given by the game users out of 10|
-| duplex | Number of Users |
-| maidRoom | Company or group name that developed the game. |
-| elevator | Company or group name that developed the game. |
-| furnihsed | Company or group name that developed the game. |
-| pool | Company or group name that developed the game. |
-| basement | Company or group name that developed the game. |
-| neighbourhood | Company or group name that developed the game. |
-| location | Company or group name that developed the game. |
-| price | Company or group name that developed the game. |
-| quare price | Company or group name that developed the game. |
-
-<<<<<<< HEAD
-=======
+| Front | The view of the building. |
+| Rooms | The numbers of rooms in villa. |
+| Lounges |The number of lounge|
+| Bathrooms | The number of bathroom. |
+| StreetWidth | Main street width. |
+| Stairs | The number of stair. |
+| PropertyAge | The current age of the building.|
+| DriverRoom | Do you have driver room or not. |
+| Tent | Do you have tent or not.|
+| Patio | Do you have patio or not. |
+| Kitchen | Do you have kitchen or not|
+| OutdoorRoom |  Do you have outdoorRoom or not |
+| Garage | Do you have garage or not|
+| Duplex | Is it duplex or not |
+| Apartments | The Number of apartments |
+| MaidRoom | Do you have maidRoom or not. |
+| Elevator | Do you have elevator or not. |
+| Furnihsed | Is it furnished or not. |
+| Pool | Do you have pool or not. |
+| Basement | Do you have basement or not. |
+| Neighbourhood | The names of the affiliated neighborhoods in every region. |
+| Location | The location of the building in Riyadh. |
+| Price | The price of building. |
+| Square price | The price for each square meter. |
 
 
->>>>>>> 4a0cd0a1b7f46837cab33bd399e4ca91cf75b038
+
 ## Final Insights
  
 |    | Insight |
