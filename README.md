@@ -67,11 +67,14 @@ This dataset contains Riyadh Villas Aqar data. There are 7.24 MB,(46826) rows an
  
 |    | Insight |
 | ----------- | ----------- |
-| 1|  Average villa prices for each district of Riyadh.|
-| 2|  The most 7 neighborhoods in the north of Riyadh have villas with an outdoor patio.|
-| 3|  Average prices for villas in the southern neighborhoods of Riyadh.|
-| 4|  `Action` Genre is the most develped genre of games. |
-| 5|  `PS2` has largest count of games between all platforms.|
-| 6|  The number of games produced every year is `conteniously increasing`.|
-| 7|  `Ubisoft` has the largest share of games development in the industry|
-| 8|  `Wii Sports` has a dominant existing in All regions excluding Japan.|
+| 1|  Average villa prices for each district of Riyadh, North Riyadh villas are the most expensive.|
+| 2|  The most 7 neighborhoods in the north of Riyadh have villas with an outdoor patio , Al Narjis neighborhood is the most one .|
+| 3|  Average prices for villas in the southern neighborhoods of Riyadh, villas in Namar neighborhood are the most expensive, followed by Ibn Al Faras.|
+| 4|  Most of the villas that have additional services such as (elevators, swimming pools, a maid's room and a driver) are located in the north of Riyadh.|
+| 5|  Real estate less than 5 years shows us that modern areas, Westren of Riyadh is the most one.|
+| 6|  Real estate more than 5 years shows us that old areas, Eastren of Riyadh is the most one.|
+| 7|  Buildings whose western and southern front are not exposed to the sun and heat .|
+| 8|  West-Riyadh has the highest number of tent in whole region, we can assume that people who lives there are more hospitable than other parts of Riyadh.|
+| 9|  North-Riyadh Villa prices are the most expensive in whole region regardless of Villa Space or Street Width. West-Riyadh comes second to North in term of price.|
+| 10| Buildings whose western and southern front are not exposed to the sun and heat .|
+
