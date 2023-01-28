@@ -56,12 +56,12 @@ This dataset contains Riyadh Villas Aqar data. There are 7.24 MB,(46826) rows an
 
 ## Visualize dataset
 
-### The comparision of mean price over 5 locations <img src='https://github.com/AliAlmuhaysin/Bootcamp-Project-3/blob/main/figures/fig3.png' width=700>
+### The comparision of mean price over 5 locations <img src='https://github.com/AliAlmuhaysin/Bootcamp-Project-3/blob/main/figures/fig3.png' height=350>
 
-### The comparision of mean price over 5 locations <img src='https://github.com/AliAlmuhaysin/Bootcamp-Project-3/blob/main/figures/fig2.png' width=700>
+### Mean Price vs District of South Of Riyadh <img src='https://github.com/AliAlmuhaysin/Bootcamp-Project-3/blob/main/figures/fig2.png' height=500>
 
-### The comparision of mean price over 5 locations 
-{% include fig1.html  %}
+### The Top 7 District in Northen have patio <img src='https://github.com/AliAlmuhaysin/Bootcamp-Project-3/blob/main/figures/fig1.png' height=500>
+
 
 
 
