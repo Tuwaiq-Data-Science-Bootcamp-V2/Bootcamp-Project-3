@@ -3,7 +3,7 @@
 
 
 ## Objective
-The objective of our project to analyze and visualize data to give real insights for the villas in the regions of Riyadh and its neighborhoods in terms of average prices, views and services available in the villa  .
+The objective of our project to analyze and visualize data to give real insights for the villas in the regions of Riyadh and its neighborhoods in terms of average prices, views and services available in the villa.
 
 
 ## Dataset Overview:
@@ -56,12 +56,12 @@ This dataset contains Riyadh Villas Aqar data. There are 7.24 MB,(46826) rows an
 
 ## Visualize dataset
 
-### The comparision of mean price over 5 locations <img src='https://github.com/AliAlmuhaysin/Bootcamp-Project-3/blob/main/figures/fig3.png' height=350>
+### The comparision of mean price over 5 locations <img src='https://github.com/AliAlmuhaysin/Bootcamp-Project-3/blob/main/figures/fig3.png' width=700>
 
-### Mean Price vs District of South Of Riyadh <img src='https://github.com/AliAlmuhaysin/Bootcamp-Project-3/blob/main/figures/fig2.png' height=500>
+### The comparision of mean price over 5 locations <img src='https://github.com/AliAlmuhaysin/Bootcamp-Project-3/blob/main/figures/fig2.png' width=700>
 
-### The Top 7 District in Northen have patio <img src='https://github.com/AliAlmuhaysin/Bootcamp-Project-3/blob/main/figures/fig1.png' height=500>
-
+### The comparision of mean price over 5 locations 
+{% include fig1.html  %}
 
 
 
@@ -85,10 +85,10 @@ This dataset contains Riyadh Villas Aqar data. There are 7.24 MB,(46826) rows an
 ## Team members
 | Team members   | Role |
 | ----------- | ----------- |
-| Alaa Qadri | Clean and preprocess for dataset, EDA, Ploting 3 chart and write README markdown file . |
-| Mohammad  | Ploting 3 charts.|
-| Moaath  | Ploting 1 chart.|
-| Saeed Alshahrani | Ploting 3 charts.|
-| Ali Almuhaysin | Ploting 2 charts, do final formatting for project. (LEADER) |
+| Alaa Qadri | Data cleaning and preprocessing, EDA, 3 Plots, README. |
+| Mohammad  | EDA, 3 Plots|
+| Moaath  | 2 Plots, Dashboard |
+| Saeed Alshahrani | EDA, 3 Plots |
+| Ali Almuhaysin | 2 Plots, Dashboard, Final work styling & Formatting. (LEADER) |
 
 
