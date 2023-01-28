@@ -1,4 +1,4 @@
-#  DS Project 3 | Riyadh Villas Aqar Analysis <img src='https://github.com/AliAlmuhaysin/Bootcamp-Project-3/blob/main/figures/aqar.jpg' width=50>
+#  DS Project 3 | Riyadh Villas Aqar Analysis <img src='https://github.com/AliAlmuhaysin/Bootcamp-Project-3/blob/main/figures/aqar.jpg' width=70>
 
 
 
