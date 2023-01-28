@@ -11,7 +11,8 @@
 
 
 ## Problem
-
+real-estat market is one of the biggest and most fluctuating markets, so its important to analyze the properties offers and help in making decision and answer most of the most frequent questions, where to buy?, is that property over priced? ....etc.<\br>
+in our project we provide a good analysis to answer those questions and have a good knowledge about the real-estat market.
 
 ## Final insight
 
