@@ -1,33 +1,27 @@
-# Bootcamp-Project-3
+## Project Description
+This project aims to give an overview of the real-estate industry by utalizing python libraries to clean, manuplate and visulaize the data to gain some insights of this industry.
 
-Based on what you’ve learned until now, use NumPy, pandas, matplotlib, seaborn and Plotly to create a project of your choosing.
+## Data
+This analysis and dashborad app uses data called [Riyadh Villas Aqar](https://www.kaggle.com/datasets/reemamuhammed/riyadh-villas-aqar) which gives a variaty of information about the real-estate industry in the city of Riyadh.
 
-This project must at least satisfy the following minimum requirements:
+## Insights
+- We found that houses of age less than 15 years are mostly located at the east of Riyadh then at the north.
+- We found that most of the market value is coming from houses loacted at the north then east of Riyadh, which makes totaly sense if we connected it to the previous insight as most of new houses are coming from those two locations.
+- We found that west of Riyadh contatins the largest numer of duplexes.
+- We found that alnakhel neighborhood is considerd the most expensive neighborhood in Riyadh
+- We found a negative corrlation between Average Square Price and the Property Age
+- We found that most of the available properties are new and most of them located at the north of Riyadh
+- We found that for houses larger than 600 sqft nortern of riyadh has highest average price
+- We found that most of the houses in Riyadh are located at the west and east
+- We found that there is a positve correlation between price and area
 
-- Use the following dataset.
-  - https://www.kaggle.com/datasets/reemamuhammed/riyadh-villas-aqar
-  
-- EDA
-    - Apply the essential EDA steps: head, shape, info, describe, and missing values.
-    - Apply the additional EDA steps based on your dataset needs.
-    
-- Data Visualization
-    - Drive meaningful insights (at least 10 different charts).
-    - Apply chart format include:
-    - Choose a specific style for your charts.
-      - Apply one color palette from your choice on all charts.
-      - Use title, x and y labels, font size, figure size, legends.
-      
-- Create an interactive dashboard using Plotly.
-      
-- Report your final conclusion and findings in one page (readme markdown file).
-    - Team members.
-    - Introduction (problem, objectives)
-    - Dataset Overview and Source.
-    - Describe the final ten insights.
-- The Final presentation will be on Sunday.
-- Due Date: Sat, 28 Jan, 11:59 pm.
+## Built With
+- Pandas - Used for data manipulation and analysis
+- Plotly - Used to create interactive dashboards and for data visualization
 
-Final Deliverables:
-- Notebook file(.ipynb).
-- README.md file.
+## Authors
+- Faris Alshamari - Data Visualization
+- Khalid Alsumali - Data Visualization
+- Raghad Alsalamah - Data Visualization
+- Mohammed Alrajeh - Plotly Dashboard
+- Amjaad Albugami - Plotly Dashboard
