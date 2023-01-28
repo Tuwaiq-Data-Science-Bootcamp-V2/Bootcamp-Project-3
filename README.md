@@ -1,7 +1,7 @@
-#  DS Project 2 | Video Games Analysis <img src='game.png' width=36>
+#  DS Project 2 | Riyadh Villas Aqar Analysis <img src='figures\aqar.jpg' width=36>
 
 ## Objective
-The objective of our project to undestand the game industry by visualizing data to give real insights for game developers.
+The objective of our project to analyze and visualize data to give real insights for the villas in the regions of Riyadh and its neighborhoods in terms of average prices, views and services available in the villa .
 
 ## Tools and Libraries
 ### Tools:
@@ -13,16 +13,24 @@ The objective of our project to undestand the game industry by visualizing data 
 - Pandas
 - Matplotlib
 - Seaborn
+- Plotly
+- Template
+- JupyterDash
+- dash_html_components
+- Dash
+
 
 ## Team members
 | Team members   | Role |
 | ----------- | ----------- |
-| Thekra Alhameedy | Clean and preprocess for dataset, EDA, Ploting 4 chart. |
-| Lolo Almuqbil | Dataset Providing, DataFrame profiling, ploting 4 charts.|
-| Ali Almuhaysin | Ploting 4 charts, Ploting styles and write README markdown file. (LEADER) |
+| Alaa Qadri | Clean and preprocess for dataset, EDA, Ploting 3 chart and write README markdown file . |
+| Mohammad  | Ploting 3 charts.|
+| Moaath  | Ploting 1 chart.|
+| Saeed Alshahrani | Ploting 3 charts.|
+| Ali Almuhaysin | Ploting 4 charts, Ploting styles and . (LEADER) |
 
 ## Dataset Overview:
-The dataset is available through the [data world.](https://data.world/sumitrock/video-games-sales)
+The dataset is available through the [kaggle.](https://www.kaggle.com/datasets/reemamuhammed/riyadh-villas-aqar)
 
 This dataset contains Video games data. There are 16K+ observations and 16 columns, including Name, Platform, Year_of_Release, Genre, Publisher, North_America_Sales, European_Union_Sales, Japan_Sales, Other_Sales, Global_Sales and more.
 
@@ -31,24 +39,33 @@ This dataset contains Video games data. There are 16K+ observations and 16 colum
 ## Dataset Description:
 | Column   | Description |
 | ----------- | ----------- |
-| Name | Name of the game. |
-| Platform | Platform name. |
-| Year_of_Release | Game's release year|
-| Genre | The category that the game fall under. |
-| Publisher | The name of game publisher. |
-| North_America_Sales | Sales of game in North America Region. |
-| European_Union_Sales | Sales of game in European Union.|
-| Japan_Sales | Sales of game in Japan. |
-| Other_Sales | Sales of game in other Regions.|
-| Global_Sales | Total of Sales for the game globally (SUM of previous Sales data). |
-| Critic_Score | Game Score given by a critic out of 100|
-| Critic_Count |  Number of Critics |
-| User_Score | Game Score given by the game users out of 10|
-| User_Count | Number of Users |
-| Developer | Company or group name that developed the game. |
-| Rating | The category of game, provides information about what's in a game or app so parents and consumers can make informed choices about which games are right for their family |
+| front | Name of the game. |
+| rooms | Platform name. |
+| lounges | Game's release year|
+| bathrooms | The category that the game fall under. |
+| streetWidth | The name of game publisher. |
+| stairs | Sales of game in North America Region. |
+| propertyAge | Sales of game in European Union.|
+| driverRoom | Sales of game in Japan. |
+| tent | Sales of game in other Regions.|
+| patio | Total of Sales for the game globally (SUM of previous Sales data). |
+| kitchen | Game Score given by a critic out of 100|
+| outdoorRoom |  Number of Critics |
+| garage | Game Score given by the game users out of 10|
+| duplex | Number of Users |
+| maidRoom | Company or group name that developed the game. |
+| elevator | Company or group name that developed the game. |
+| furnihsed | Company or group name that developed the game. |
+| pool | Company or group name that developed the game. |
+| basement | Company or group name that developed the game. |
+| neighbourhood | Company or group name that developed the game. |
+| location | Company or group name that developed the game. |
+| price | Company or group name that developed the game. |
+| quare price | Company or group name that developed the game. |
 
-## Final Eight Insights
+
+
+## Final Insights
  
 |    | Insight |
 | ----------- | ----------- |
