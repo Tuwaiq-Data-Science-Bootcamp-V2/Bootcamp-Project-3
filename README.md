@@ -67,9 +67,9 @@ This dataset contains Riyadh Villas Aqar data. There are 7.24 MB,(46826) rows an
  
 |    | Insight |
 | ----------- | ----------- |
-| 1|  Most Games fall under `'Everyone'` Rating.|
-| 2|  `2007-2008` were The peak of Games Sales in all regions.|
-| 3|  `North America` has the largest game sales market.|
+| 1|  Average villa prices for each district of Riyadh.|
+| 2|  The most 7 neighborhoods in the north of Riyadh have villas with an outdoor patio.|
+| 3|  Average prices for villas in the southern neighborhoods of Riyadh.|
 | 4|  `Action` Genre is the most develped genre of games. |
 | 5|  `PS2` has largest count of games between all platforms.|
 | 6|  The number of games produced every year is `conteniously increasing`.|
