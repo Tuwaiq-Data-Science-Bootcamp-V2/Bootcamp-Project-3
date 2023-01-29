@@ -78,7 +78,7 @@ This dataset contains Riyadh Villas Aqar data. There are 7.24 MB,(46826) rows an
 | 7|  Buildings whose western and southern front are not exposed to the sun and heat .|
 | 8|  West-Riyadh has the highest number of tent in whole region, we can assume that people who lives there are more hospitable than other parts of Riyadh.|
 | 9|  North-Riyadh Villa prices are the most expensive in whole region regardless of Villa Space or Street Width. West-Riyadh comes second to North in term of price.|
-
+|10|  The most area that have more than two apartments is the eastern region of Riyadh.
 
 
 
